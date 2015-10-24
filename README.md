@@ -2,6 +2,7 @@
 its my website dude ^_^
 
 ToDo:
+- [ ] Yeoman -kickstart a project
 - [x] AngularJS
     - [x] Node package manager -npm
     - [x] Bower for client side dependencies
