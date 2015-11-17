@@ -4,6 +4,7 @@ its my website dude ^_^
 ToDo:
 - [x] Yeoman \-kickstart a project
 - [x] AngularJS
+    - [ ] **Pacman game with Angular** https://github.com/hmandal/pacman
     - [x] **[Sticky-Notes with Angular](https://cdn.rawgit.com/hmandal/my-notebook/master/app/index.html#/)** https://github.com/hmandal/my-notebook
     - [x] **[Minesweeper with Angular](https://cdn.rawgit.com/hmandal/minesweeper-angular/4e3b024252b2c1bc522aecb6cdc8c7a5eefe9cd1/app/index.html#/)** https://github.com/hmandal/minesweeper-angular
     - [x] **[Email app](https://cdn.rawgit.com/hmandal/my-mail/b1af26c66296b8a4b5539df861b6288013fff485/app/index.html#/)** https://github.com/hmandal/my-mail
